@@ -1,4 +1,4 @@
-Random task assignment program 
+<b>Random task assignment program </b>
 <br>
 This program randomly assigns team members to 3 different tasks following these steps: 
 
